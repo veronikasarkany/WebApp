@@ -18,14 +18,14 @@
 						<div class="row">
 							<div class="col">
 								<center>
-									<h4>*Issuing*</h4>
+									<h4>*Keresés*</h4>
 								</center>
 							</div>
 						</div>
 						<div class="row">
 							<div class="col">
 								<center>
-									<img width="100px" src="imgs/books.png" />
+									<img width="100px" src="imgs/33662504.gif" />
 								</center>
 							</div>
 						</div>
