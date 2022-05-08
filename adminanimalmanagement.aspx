@@ -13,7 +13,7 @@
                         <div class="row">
                             <div class="col">
                                 <center>
-                                        <h4>* Details *</h4>
+                                        <h4>* Részletek *</h4>
                                     </center>
                             </div>
                         </div>
@@ -47,7 +47,7 @@
                             <div class="col-md-8">
                                 <label>Állat Name</label>
                                 <div class="form-group">
-                                    <asp:TextBox CssClass="form-control" ID="TextBox2" runat="server" placeholder="Author Name"></asp:TextBox>
+                                    <asp:TextBox CssClass="form-control" ID="TextBox2" runat="server" placeholder="Állat Name"></asp:TextBox>
 
                                 </div>
                             </div>
@@ -55,13 +55,13 @@
 
                         <div class="row">
                             <div class="col-4">
-                                <asp:Button ID="Button2" class="btn btn-lg btn-block btn-success" runat="server" Text="Add" />
+                                <asp:Button ID="Button2" class="btn btn-lg btn-block btn-success" runat="server" Text="Hozzáad" />
                             </div>
                             <div class="col-4">
-                                <asp:Button ID="Button3" class="btn btn-lg btn-block btn-warning" runat="server" Text="Update" />
+                                <asp:Button ID="Button3" class="btn btn-lg btn-block btn-warning" runat="server" Text="Frissítés" />
                             </div>
                             <div class="col-4">
-                                <asp:Button ID="Button4" class="btn btn-lg btn-block btn-danger" runat="server" Text="Delete" />
+                                <asp:Button ID="Button4" class="btn btn-lg btn-block btn-danger" runat="server" Text="Törlés" />
                             </div>
                         </div>
 
@@ -83,7 +83,7 @@
                         <div class="row">
                             <div class="col">
                                 <center>
-                                        <h4>*List*</h4>
+                                        <h4>*Lista*</h4>
                                     </center>
                             </div>
                         </div>
