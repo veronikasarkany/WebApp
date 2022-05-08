@@ -92,7 +92,7 @@ namespace WebApp
         protected void LinkButton11_Click(object sender, EventArgs e)
         {
             //Admin:Kiskedvenc Módosítás
-            Response.Redirect("adminanimalmanagement.aspx");
+            //Response.Redirect("adminanimalmanagement.aspx");
         }
 
         protected void LinkButton10_Click(object sender, EventArgs e)
